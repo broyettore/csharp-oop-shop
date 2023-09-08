@@ -15,7 +15,7 @@ Usate opportunamente i livelli di accesso (public, private), i costruttori, i me
 * li altri attributi siano accessibili sia in lettura che in scrittura
 * Il prodotto esponga sia un metodo per avere il prezzo base che uno per avere il prezzo comprensivo di iva
 * Il prodotto esponga un metodo per avere il nome esteso, ottenuto concatenando codice + nome
-* 
+  
 Testate poi i vostri oggetti Prodotto, istanziandoli e provando ad interagirci per testare tutti i metodi che avete previsto.
 
 ### BONUS:
