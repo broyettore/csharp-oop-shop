@@ -8,7 +8,7 @@ Un prodotto è caratterizzato da:
 * descrizione
 * prezzo
 * iva
-* 
+  
 Usate opportunamente i livelli di accesso (public, private), i costruttori, i metodi getter e setter ed eventuali altri metodi di “utilità” per fare in modo che:
 * Alla creazione di un nuovo prodotto il codice sia valorizzato con un numero random
 * Il codice prodotto sia accessibile solo in lettura
